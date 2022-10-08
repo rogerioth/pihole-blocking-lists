@@ -1,0 +1,24 @@
+0.0.0.0 h1ekceo16erc49snp0sine3k9ccbh9.ext-twitch.tv
+0.0.0.0 cvp.twitch.tv.edgekey.net
+0.0.0.0 9zqhb3hba48m0c382uno7k2t74isfi.ext-twitch.tv
+0.0.0.0 panels.twitch.tv
+0.0.0.0 extension-files.twitch.tv
+0.0.0.0 gql.twitch.tv
+0.0.0.0 static.twitchcdn.net
+0.0.0.0 www.twitch.tv
+0.0.0.0 k.twitchcdn.net
+0.0.0.0 supervisor.ext-twitch.tv
+0.0.0.0 viewer-geolocation.twitch-ext.rootonline.de
+0.0.0.0 jtvnw.twitchcdn.net
+0.0.0.0 spade.sci.twitch.tv
+0.0.0.0 uaw3vx1k0ttq74u9b2zfvt768eebh1.ext-twitch.tv
+0.0.0.0 pubsub-edge.twitch.tv
+0.0.0.0 irc-ws.chat.twitch.tv
+0.0.0.0 api.twitch.tv
+0.0.0.0 p.twitchcdn.net
+0.0.0.0 h2.twitch.map.fastly.net
+0.0.0.0 twitch.map.fastly.net
+0.0.0.0 cvp.twitch.tv
+0.0.0.0 vod-secure.twitch.tv
+0.0.0.0 passport.twitch.tv
+
