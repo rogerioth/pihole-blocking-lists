@@ -1,0 +1,10 @@
+0.0.0.0 level3.blizzard.com
+0.0.0.0 us.cdn.blizzard.com
+0.0.0.0 download.blizzard.com.c.footprint.net
+0.0.0.0 us.api.blizzard.com
+0.0.0.0 cdn.blizzard.com
+0.0.0.0 blizzard.secure.footprint.net
+0.0.0.0 api.blizzard.com
+0.0.0.0 overwatch.ingest.gdp.blizzard.com
+0.0.0.0 level3.ssl.blizzard.com
+
